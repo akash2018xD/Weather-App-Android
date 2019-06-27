@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="city_name">City Name</string>
+    <string name="search">Search</string>
+    <string name="min_temp">Min Temp :</string>
+    <string name="max_temp">Max Temp :</string>
+    <string name="updated">Updated :</string>
+    <string name="humidity">Humidity :</string>
+    <string name="wind_speed">Wind Speed :</string>
+    <string name="refresh">Refresh</string>
+    <string name="city">City :</string>
+    <string name="temp">Temp :</string>
+    <string name="delete">Delete</string>
+</resources>
